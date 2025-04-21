@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; URL='mapa_bolsas_suelo.html'">
+    <title>Redirigiendo a Informe de Vivienda</title>
+</head>
+<body>
+    <p>Si no eres redirigido automáticamente, haz clic <a href="mapa_bolsas_suelo.html">aquí</a>.</p>
+</body>
+</html>
